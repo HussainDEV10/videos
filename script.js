@@ -1,4 +1,4 @@
-// إعدادات تهيئة 
+// إعدادات تهيئة Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyBXXCR2jN8SOP_AamRaE0vkEliR_cnpLqY",
   authDomain: "backy-123.firebaseapp.com",
